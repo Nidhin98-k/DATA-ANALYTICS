@@ -133,14 +133,3 @@ Screenshots of the dashboard pages are available in the `screenshots` folder.
 ## Project Objective
 
 The main objective of this project is to use Power BI to transform urban traffic and mobility data into an interactive dashboard that makes it easier to understand traffic conditions, compare cities, identify patterns, and explore detailed observations.
-
-## Project Structure
-
-```text
-Urban_Intelligence_Dashboard/
-│
-├── screenshots/
-│
-├── README.md
-│
-└── Urban_Intelligence_Dashboard.pbix
